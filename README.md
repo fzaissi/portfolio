@@ -29,7 +29,6 @@
 <h3 align="center">🛠️ Les outils de programamtions</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=discord" />
     <img src="https://skillicons.dev/icons?i=gmail" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
      <br>
