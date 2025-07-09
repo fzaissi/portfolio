@@ -13,9 +13,10 @@
 
 🌱 J'élargis actuellement mes connaissances en développement d'applications
 
+
+
  </div
 
-   <h2 align="center">⚒️ Languages, & Outils ⚒️</h2>
 <br/>
 
 <h3 align="center">👨‍💻 Language de programmations</h3>
