@@ -21,9 +21,7 @@
 
 <h3 align="center">👨‍💻 Language de programmations</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,python,php,ts" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="48" height="48" alt="GDScript" title="GDScript"/>
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,python,php" />
 </div>
 
 
